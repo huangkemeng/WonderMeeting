@@ -1,0 +1,14 @@
+<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="WonderMeeting.App"
+             RequestedThemeVariant="Light">
+    <Application.Styles>
+        <FluentTheme />
+    </Application.Styles>
+    <Application.Resources>
+        <FontFamily x:Key="FaRegular">avares://WonderMeeting/Assets/Fonts/FontAwesome/Regular#</FontFamily>
+        <FontFamily x:Key="FaSolid">avares://WonderMeeting/Assets/Fonts/FontAwesome/Solid#</FontFamily>
+        <FontFamily x:Key="FaBrand">avares://WonderMeeting/Assets/Fonts/FontAwesome/Brand#</FontFamily>
+        <FontFamily x:Key="Iconfont">avares://WonderMeeting/Assets/Fonts/Iconfont#</FontFamily>
+    </Application.Resources>
+</Application>
